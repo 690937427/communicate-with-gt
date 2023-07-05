@@ -1,0 +1,218 @@
+[{
+    "name": "XSRF-TOKEN",
+  "value": "389ae8ca-9f37-4d97-98e8-d237ef223e9c",
+  "path": "/",
+  "domain": "damai.cn",
+  "secure": false,
+  "httpOnly": false,
+  "sameSite": "None"
+},
+  {
+    "name": "destCity",
+    "value": "%u5317%u4eac",
+    "path": "/",
+    "domain": "damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "cna",
+    "value": "m8kqHcjgowYCAXcoQAkZVXS1",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 2319180187,
+    "sameSite": "None"
+  },
+  {
+    "name": "xlly_s",
+    "value": "1",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": true,
+    "httpOnly": false,
+    "expiry": 1688719391,
+    "sameSite": "None"
+  },
+  {
+    "name": "_samesite_flag_",
+    "value": "true",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": true,
+    "httpOnly": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cookie2",
+    "value": "1be136aa716d0e5ad833a8bb7a30613f",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": true,
+    "httpOnly": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "t",
+    "value": "ea66b2ebbd7c566543c34908748b0316",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": true,
+    "httpOnly": false,
+    "expiry": 1996075391,
+    "sameSite": "None"
+  },
+  {
+    "name": "_tb_token_",
+    "value": "344533b3b38be",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_hvn_login",
+    "value": "18",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "munb",
+    "value": "2211275336329",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": true,
+    "httpOnly": false,
+    "expiry": 1689093836,
+    "sameSite": "None"
+  },
+  {
+    "name": "csg",
+    "value": "92a8f81b",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "damai.cn_nickName",
+    "value": "%E9%BA%A6%E5%AD%901NxM1",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 1776933837,
+    "sameSite": "None"
+  },
+  {
+    "name": "damai.cn_user",
+    "value": "dIJ15ARcGSzFeoPKUOeOcucDrZf6BUmLzzaM9zbic71vmkCDWwC0dtHnthC+FbL+Gxb2+Rjuqig=",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "damai.cn_user_new",
+    "value": "dIJ15ARcGSzFeoPKUOeOcucDrZf6BUmLzzaM9zbic71vmkCDWwC0dtHnthC%2BFbL%2BGxb2%2BRjuqig%3D",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "h5token",
+    "value": "67e8e2cbe68f45d19c3e3f5ba6d8326e_1_1",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "damai_cn_user",
+    "value": "dIJ15ARcGSzFeoPKUOeOcucDrZf6BUmLzzaM9zbic71vmkCDWwC0dtHnthC%2BFbL%2BGxb2%2BRjuqig%3D",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "loginkey",
+    "value": "67e8e2cbe68f45d19c3e3f5ba6d8326e_1_1",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "user_id",
+    "value": "168003016",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "_m_h5_tk",
+    "value": "56418c1f606eaaed48e5635aed76d391_1688469959107",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 1689065039,
+    "sameSite": "None"
+  },
+  {
+    "name": "_m_h5_tk_enc",
+    "value": "f3546b50e4a4e5353b9ac814b3d6c562",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 1689065039,
+    "sameSite": "None"
+  },
+  {
+    "name": "tfstk",
+    "value": "dRBXQ1OzXq0fkcYAgxZPNROV73vNfNwecctOxGHqXKpxWVIpzOrc0S21NNQykNsgmhLOWNTNguyFmivMBy7_LJSmI_JT81tN14SDIdUU8JyFmib3S8YlUOVirf3l0zMoUvdXnoXKeADGFnL2JgTWq3XWcITLKU6Nbv8QyAcZVBD9Vjq7Vfciq0S3q",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 1704012238,
+    "sameSite": "None"
+  },
+  {
+    "name": "l",
+    "value": "fBSno-sgN-0sdhKFBOfanurza77OSIOYYuPzaNbMi9fPOJ1k5bE1W1s0WS8DC31GFs1DR3XaIk_wBeYBqSxhirDB51xKbckmndLHR35..",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": false,
+    "httpOnly": false,
+    "expiry": 1704012238,
+    "sameSite": "None"
+  },
+  {
+    "name": "isg",
+    "value": "BJeXsNWMv03uLzvBAm9U2XCUJQvh3Gs-onGlK-nEs2bNGLda8az7jlW-fjEG60O2",
+    "path": "/",
+    "domain": ".damai.cn",
+    "secure": true,
+    "httpOnly": false,
+    "expiry": 1704012238,
+    "sameSite": "None"
+  }
+]
